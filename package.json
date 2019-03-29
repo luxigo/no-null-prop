@@ -1,0 +1,19 @@
+{
+  "name": "no-null-prop",
+  "version": "1.0.0",
+  "description": "remove null object properties and empty objects",
+  "main": "no-null-prop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxigo/no-null-prop%60.git"
+  },
+  "author": "luc.deschenaux@freesurf.ch",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/luxigo/no-null-prop%60/issues"
+  },
+  "homepage": "https://github.com/luxigo/no-null-prop%60#readme"
+}
